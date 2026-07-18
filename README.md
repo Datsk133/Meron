@@ -3,12 +3,12 @@ Meron is an icy Mega-Kerbin.
 
 DEPENDENCIES:
 
-Kopernicus
+Kopernicus,
 Scatterer
 
 COMPATIBILITY:
 
-OPM
+OPM,
 Parallax
 
 
