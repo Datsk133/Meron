@@ -9,10 +9,12 @@ Scatterer
 COMPATIBILITY:
 
 OPM,
-Parallax continued
+Parallax continued,
+EVE Volumetrics V5
 
 
-<img width="1920" height="1080" alt="screenshot267" src="https://github.com/user-attachments/assets/9e70d180-e4cf-4dba-8a35-bb4cc35406a3" />
+<img width="1280" height="720" alt="screenshot20" src="https://github.com/user-attachments/assets/d5afe288-5bdc-4f66-9ff9-2bd6e9647ed7" />
+
 Image of Meron
 
 DISCORD FOR DEVELOPMENT OF MERON AND OTHER MODS:
